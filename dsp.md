@@ -2,13 +2,13 @@
 
 
 ## 联咏
-联咏，Novatek，台湾企业，产品以显示屏幕驱动 IC，行车记录仪芯片为主。安防领域的芯片有NT98566（500万，800万 IPC SOC），NT98562（400万IPC SOC），NT98323（相当于海思 3535AV100）
+联咏，Novatek，台湾企业，产品以显示屏幕驱动 IC，行车记录仪芯片为主。安防领域的芯片有NT98566（500万，800万 IPC SOC），NT98562（400万IPC SOC），NT98323（相当于海思 3535AV100）。
 
-NT98566 arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300
-NT98562 arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200
-NT98520 相当于Hi3516CV500
-NT98525 相当于Hi3516DV300
-NT98528 相当于Hi3516AV300
+- NT98566 arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300
+- NT98562 arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200
+- NT98520 相当于Hi3516CV500
+- NT98525 相当于Hi3516DV300
+- NT98528 相当于Hi3516AV300
 
 ## 智源
 智源，Grain Media，改名升迈，被联咏收购，代表作GM8135S，常用于消费类200万Wi-FiIPC。
