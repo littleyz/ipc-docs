@@ -2,7 +2,7 @@
 
 
 ## 联咏
-联咏（官网--https://www.novatek.com.tw/ ），Novatek，台湾企业，产品以显示屏幕驱动 IC，行车记录仪芯片为主。安防领域的芯片有NT98566（500万，800万 IPC SOC），NT98562（400万IPC SOC），NT98323（相当于海思 3535AV100）。
+联咏（官网--https://www.novatek.com.tw/ ），Novatek，台湾企业，产品以显示屏幕驱动IC，行车记录仪芯片为主。安防领域的芯片有NT98566（500万，800万 IPC SOC），NT98562（400万IPC SOC），NT98323（相当于海思 3535AV100）。
 
 - NT98566 arm Cortex A9 CPU@max. 1GHz.1G DDR.相当于Hi3516EV300
 - NT98562 arm Cortex A9 CPU@max. 1GHz.512MB DDR.相当于Hi3516EV200
