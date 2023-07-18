@@ -22,7 +22,7 @@
 星宸，SigmaStar，总部厦门，对外宣称技术团队来源于 晨星。IPC类产品种类很齐全，从200万到4K均有，产品型号以SSC, SSR开头。官网上产品分类都在模仿海思。
 
 - MSC335 2/3MP smart home IPC, low power.
-- SSC335 arm Cortex-A7@800Mhz.512MB DDR2.3MP IPC.相当于3516EV200.
+- SSC335 arm Cortex-A7@800Mhz，512MB DDR2.3MP IPC.相当于3516EV200.
 - SSC338Q 4K@20FPS.2Gb DDR(SSC338D带1Gb DDR).0.5T算力.相当于Hi3516DV300.
 - SSC338G 4K@20FPS.不带DDR.1T算力.相当于Hi3516DV300.
 - SSC339G 4K@30fps.不带DDR.1T算力.
