@@ -4,6 +4,7 @@
   - [传感器](sensor.md)
   - [ISP](isp.md)
   - [模组](module.md)
+  - [Wi-Fi](wifi.md)
 
 
 
