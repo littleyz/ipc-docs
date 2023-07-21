@@ -7,4 +7,4 @@
 
 <!-- 背景图片 -->
 
-![](https://ipc.name/wp-content/uploads/2021/10/cropped-logo-t.png)
+![]()
