@@ -7,4 +7,4 @@
 
 <!-- 背景图片 -->
 
-![](https://fastly.jsdelivr.net/gh/littleyz/su-shi/docsify/themes/background.png)
+![](https://cdn.ipc.name/2020/10/ipcam-diagram.jpg)
