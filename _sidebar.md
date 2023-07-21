@@ -7,5 +7,5 @@
   - [Wi-Fi](wifi.md)
 
 
-
+- [资料下载](share.md)
 - [更新记录](CHANGELOG.md)
