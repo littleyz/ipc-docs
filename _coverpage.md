@@ -7,4 +7,4 @@
 
 <!-- 背景图片 -->
 
-![](https://cdn.ipc.name/2020/10/ipcam-diagram.jpg)
+![](https://ipc.name/wp-content/uploads/2021/10/logo20.png)
