@@ -6,4 +6,4 @@ Wi-Fi
 
 - RTL8188FTV
 
-- HI3861L
+- Hi3861L
